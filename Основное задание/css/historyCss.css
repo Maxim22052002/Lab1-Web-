@@ -1,0 +1,48 @@
+body {
+    background-color: #b9b9e8;
+}
+h1 {
+    text-align: center;
+    margin: 0px;
+    color: #0b503d;
+    font-family: Arial;
+    font-size: 40px;
+    font-style: italic;
+}
+h2 {
+    text-align: center;
+    margin: 0px;
+    font-size: 17px;
+    color: #565252;
+}
+h4 {
+    font-size: 20px;
+    font-family: "Berlin Sans FB";
+    font-style: italic;
+    font-weight: bold;
+    color:red;
+}
+.mainImage {
+    position: fixed;
+    top: 0;
+    left: 0;
+    border: 0px;
+    align: left;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.tableInfo {
+    color: #000000;
+    text-align: left;
+    text-indent: 25px;
+    font-family: "Times New Roman";
+}
+.firstImage {
+    float: left;
+    margin: 7px 7px 7px 5px;
+}
+.secondImage {
+    float: right;
+    margin:  7px 5px 7px 7px;
+}
